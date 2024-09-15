@@ -1,7 +1,0 @@
- [[Metabolismus|Metabolismus]]
- [[Proměnlivost a dědičnost|Proměnlivost a dědičnost]]
-[[Reprodukce|Reprodukce]]
-[[Regulace|Regulace]]
-[[Vývoj|Vývoj]]
-[[Časová omezenost jedinců|Časová omezenost jedinců]]
-[[Růst|Růst]]
