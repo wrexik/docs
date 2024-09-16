@@ -24,7 +24,7 @@
 - V dnešní době je nejčastěji uznávaná teorie.
 - Za autora je považován Alexandr Ivanovič Oparin.
 - Základem teorie je postupný vznik organických molekul z jednoduchých anorganických látek.
-- Po chemických reakcích s látkami na povrchu a slunečním záření vznikaly organické molekuly. Ty se dostávaly díky dešťům do vody a tím vznikla tzv. prapolevka.
+- Po chemických reakcích s látkami na povrchu a slunečním záření vznikaly organické molekuly. Ty se dostávaly díky dešťům do vody a tím vznikla tzv. **prapolevka.**
 
 ### Prapolevka
 
