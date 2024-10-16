@@ -1,49 +1,49 @@
-# Definice Klacisismus
+# Definice Klasicismu
 - Architektura
-	- Trojuheniky, sloupy, pilastry
-	- Simetrie
-- Umeni
-	- Vzorovy, nadcasovy
+  - Trojúhelníky, sloupy, pilastry
+  - Symetrie
+- Umění
+  - Vzorové, nadčasové
 - Literatura
-	- Rozvoj drama, prevazne komedia a frasky
-	- Hovorovy, nespisovny jazkyk
+  - Rozvoj drama, převážně komedie a frašky
+  - Hovorový, nespisovný jazyk
 
-# Moliere
-Proslavil se komediemi, vystupovali u nej prevazne osoby z nizsich spolecenskych vrstev
+# Molière
+Proslavil se komediemi, vystupovali u něj převážně osoby z nižších společenských vrstev.
 
-Dilo lakomec - Harpagon
-Tartffue neboli pokrytec
-Misantrop neb. amilovany mrzout
+Dílo Lakomec - Harpagon
+Tartuffe neboli Pokrytec
+Misantrop neboli Amilovaný mrzout
 
-# carlo goldoni
-Tvurcem komedii, dramatik ale vystudoval prava. 
+# Carlo Goldoni
+Tvůrce komedií, dramatik, ale vystudoval práva. 
 
-Sluha dvou panu - Truffaldiono, Florindo
-Poprask na lagune
+Sluha dvou pánů - Truffaldino, Florindo
+Poprask na laguně
 
-# deniel defoe
-Spisovatel / novinar, dila projevuji lidsky rozum a pokrok
+# Daniel Defoe
+Spisovatel / novinář, díla projevuji lidský rozum a pokrok.
 
-Robinson Crusoe - Robinson, patek (domorodec)
-	Dilo bylo castecne insiporvano realnym pribehem
+Robinson Crusoe - Robinson, Patek (domorodec)
+  Dílo bylo částečně inspirováno reálným příběhem.
 
 
-# jonathan swift
-Znacnou cast zivota prozil v irsku
+# Jonathan Swift
+Značnou část života prožil v Irsku.
 
-Guliverovy cesty, fantasticky cestopis - Guliver, mluvici kone, liliputove a obri
-	Je to satira, poukazuje na tehdejsi anglickou spolecnost
-	
-# johann wolfgang goethe
-Povazovan za nejvyznamnejsiho svetoveho autora, nemec
-Byl to vedec a umelec
-Clen skupiny Strum und Drang (boure a vzdor)
+Gulliverovy cesty, fantastický cestopis - Gulliver, mluvící koně, liliputáni a obři
+  Je to satira, poukazuje na tehdejší anglickou společnost.
+  
+# Johann Wolfgang Goethe
+Považován za nejvýznamnějšího světového autora, Němec.
+Byl to vědec a umělec.
+Člen skupiny Sturm und Drang (Bouře a vzdor).
 
-Smrt, zaprodani duse dablu
+Smrt, zaprodaní duše ďáblu.
 
-Faust - faust je ucenec
-Utrpeni mladeho Werthera
-Kral duchu
+Faust - Faust je učenec.
+Utrpení mladého Werthera
+Král duchů
 
 
 ### Strana 65 recap
