@@ -14,13 +14,13 @@ Pastýř putuje světem, prodá ovce. přijde o všechny peníze, najde práci v
 Vydělá si zpět o co přišel a po váhání pokračuje v cestě za pokladem. Nakonec poklad najde.
 
 ### Forma vypravěče
-er-forma (já) - Pastýř vypráví ze svého pohledu
+**er-forma** - Pastýř vypráví ze svého pohledu
 
 ### Kompozice
-Chronologická
+**Chronologická**
 
 ### Čas a prostor
-doba není vymezena, nejdříve po roce 1887, Španělsko a Afrika
+doba není vymezena, **nejdříve po roce 1887**, Španělsko a Afrika
 
 ### Postavy
 - Santiago – vypravěč, pastýř, umí číst, odvážný, citlivý, jeho duševní přeměna
