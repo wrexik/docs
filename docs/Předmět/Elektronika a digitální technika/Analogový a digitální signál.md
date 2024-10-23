@@ -38,3 +38,39 @@ K zabezpečení digitálních signálů proti chybovosti se používají různé
 - **Paritní bity**: Přidání bitů, které indikují, zda počet jedniček v daném bloku dat je sudý nebo lichý.
 - **Forward Error Correction (FEC)**: Metoda, která umožňuje detekci a opravu chyb přímo při přenosu bez nutnosti opakování.
 - **Zálohování a replikace dat**: Ukládání kopií dat na různých místech pro ochranu před ztrátou nebo poškozením.
+
+### Otázky
+
+- **Grafické Vyjádření Analogového Signálu**
+    
+    - **Otázka:** Jaký je hlavní rozdíl mezi grafickým znázorněním analogového a digitálního signálu?
+    
+    - **Odpověď:** Analogový signál je plynulý a může mít nekonečně mnoho hodnot v určitém rozsahu, zatímco digitální signál je diskrétní a má omezený počet hodnot, obvykle dvě: 0 a 1.
+- **Druhy Zkreslení Analogového Signálu**
+    
+    - **Otázka:** Popište harmonické zkreslení a uveďte, jak vzniká.
+
+    - **Odpověď:** Harmonické zkreslení je způsobeno nelinearitou zařízení, které generuje vyšší harmonické frekvence signálu.
+- **Grafické Vyjádření Digitálního Signálu**
+    
+    - **Otázka:** Jak vypadá grafické znázornění digitálního signálu a jaké hodnoty může nabývat?
+    
+    - **Odpověď:** Grafické znázornění digitálního signálu se skládá z řady obdélníkových pulzů a může nabývat hodnot 0 a 1.
+- **Regenerace Digitálního Signálu**
+    
+    - **Otázka:** Jaký je účel regenerace digitálního signálu a jaké procesy zahrnuje?
+    
+    - **Odpověď:** Regenerace digitálního signálu se používá k obnově signálu na jeho původní kvalitu po přenosu, který mohl způsobit degradaci. Zahrnuje equalizaci, amplifikaci, restaurování hodin a detekci a opravu chyb.
+- **Zabezpečení proti Chybovosti při Přenosu a Ukládání**
+    
+    - **Otázka:** Co je redundantní kódování a jak pomáhá při zabezpečení digitálních signálů?
+    
+    - **Odpověď:** Redundantní kódování přidává nadbytečná data k signálu, což umožňuje detekci a opravu chyb.
+- **Druhy Zkreslení Analogového Signálu**
+    
+    - **Otázka:** Uveďte a popište tři různé druhy zkreslení, které mohou ovlivnit analogový signál.
+    
+    - **Odpověď:** Tři různé druhy zkreslení jsou:
+        - Harmonické zkreslení: způsobené nelinearitou zařízení, generující vyšší harmonické frekvence signálu.
+        - Intermodulační zkreslení: vzniká, když se v zařízení míchají dvě nebo více frekvencí, vedoucí ke vzniku dalších frekvencí.
+        - Šum: náhodné variace signálu způsobené různými zdroji, jako jsou teplotní šumy nebo šumové napětí v obvodech.
