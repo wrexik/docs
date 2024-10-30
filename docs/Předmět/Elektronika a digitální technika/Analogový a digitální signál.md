@@ -8,7 +8,7 @@ Analogový signál je plynulý a může mít nekonečně mnoho hodnot v určité
 
 Analogové signály mohou být zkresleny různými způsoby, například:
 
-- **Harmonické zkreslení**: Způsobené nelinearitou zařízení, které generuje vyšší harmonické frekvence signálu (THD).
+- **Harmonické zkreslení**: Způsobené nelinearitou zařízení, které generuje vyšší harmonické frekvence signálu (THD). Harmonická je frekvence, která je násobkem základní frekvence. V evropské napěťové síti je základní frekvence 50 Hz. Násobky této frekvence jsou harmonické, tedy 100 Hz, 150 Hz, 200 Hz
 - **Intermodulační zkreslení**: Vzniká, když se v zařízení míchají dvě nebo více frekvencí, což vede ke vzniku dalších frekvencí, které nejsou v původním signálu.
 - **Šum**: Náhodné variace signálu způsobené různými zdroji, jako jsou teplotní šumy, šumové napětí v obvodech apod.
 - **Zkreslení fázového posunu**: Změny fáze signálu, které mohou způsobit jeho zpoždění nebo deformaci.
@@ -22,7 +22,7 @@ Digitální signál je diskrétní a má omezený počet hodnot, obvykle dvě: 0
 
 ### 4. Regenerace Digitálního Signálu
 
-Regenerace digitálního signálu se používá k obnově signálu na jeho původní kvalitu po přenosu, který mohl způsobit degradaci. Proces regenerace zahrnuje:
+ Regenerace digitálního signálu se používá k obnově signálu na jeho původní kvalitu po přenosu, který mohl způsobit degradaci. Zahrnuje equalizaci, amplifikaci, restaurování hodin a **detekci a opravu chyb**. Proces regenerace zahrnuje:
 
 - **Equalizace**: Kompenzace frekvenční odezvy přenosového kanálu.
 - **Amplifikace**: Zvýšení úrovně signálu na potřebnou hodnotu.
