@@ -30,7 +30,7 @@ Neboli hexadecimální soustava
     - Např. 1A₁₆ = 1×16¹ + 10×16⁰ = 26₁₀
 
 
-### # Základní logické funkce (NOT, AND, OR)
+### Základní logické funkce (NOT, AND, OR)
 
 Logické funkce jsou základními stavebními kameny digitálních obvodů a počítačové logiky. Zde jsou tři základní logické funkce:
 
