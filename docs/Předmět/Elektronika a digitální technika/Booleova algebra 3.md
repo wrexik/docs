@@ -15,15 +15,12 @@
 		![[./assets/Pasted image 20241108175239.png|Pasted image 20241108175239.png]]
 	- **Karnaughova mapa (K-map):** Používá se k minimalizaci logických funkcí.
 		![[./assets/Pasted image 20241108175130.png|Pasted image 20241108175130.png]]
-
 ### Zákony Booleovy algebry
+- **Co to je:** Booleovou algebrou, jakožto jednoduchým a přesným prostředkem, popisujeme logické obvody a navrhujeme je, když známe vstupní logickou funkci.
 
-- **Co to je:** Booleova algebra je jednoduchý a přesný prostředek pro popis a návrh logických obvodů, když známe vstupní logickou funkci.
+- **Proč?:** Booleova algebra je důležitý pomocník, který slouží k minimalizaci logických funkcí pomocí zákonů a pravidel. Ne vždy se nám podaří řešit úkol, kde se objevuje nějaká jednoduchá funkce.
 
-- Logické obvody realizují logické funkce, které jsou definovány Booleovou algebrou, což je binární algebra využívající logické operace **NOT, AND, OR, NOR, NAND**. Všechny operace jsou prováděny nad dvouprvkovou množinou hodnot {0, 1}.
-- Každou logickou operaci můžeme zapsat "příkazem" v dvojkové soustavě.
-
-Booleova algebra pracuje pouze s operacemi **NOT, AND, OR, NOR, NAND**.
+Pracuje pouze se **3 operacemi** viz ==Základní logické operace== nahoře
 
 ### Karnaughova mapa (K-map)
 
