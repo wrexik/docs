@@ -49,4 +49,25 @@ Součástka s vlastností indukce, schopná uchovávat energii ve formě magneti
 	- Cívky mohou být bez jádra (vzduchové) nebo s jádrem (feritové) pro zvýšení induktance.
 
 ### Transformátory
-![[../../../Pasted image 20241111181412.png|Pasted image 20241111181412]]
+![Transformátor](../../../Pasted%20image%2020241111181412.png)
+Součástka s vlastností přenosu elektrické energie mezi dvěma nebo více obvody prostřednictvím elektromagnetické indukce.
+
+- **Důvody pro zařazení transformátoru do obvodu:**
+  - Změna napětí střídavého proudu (např. zvyšování nebo snižování napětí).
+  - Izolace obvodů, aby se zabránilo přímému elektrickému spojení.
+  - Přenos energie mezi obvody s různými impedancemi.
+
+- **Dělení:**
+  - **Převodní:** Určené pro změnu napětí mezi primárním a sekundárním vinutím.
+  - **Izolační:** Používají se k elektrické izolaci obvodů.
+  - **Autotransformátory:** Mají pouze jedno vinutí s odbočkami a mohou změnit napětí s vyšší účinností a menší velikostí.
+
+- **Určení parametrů transformátorů:**
+  - Primární a sekundární napětí: Udává napětí na vstupu (primární) a výstupu (sekundární).
+  - Výkon: Měřený ve VA (Voltampéry) nebo W (Watty), určuje maximální výkon, který může transformátor přenášet.
+  - Převodní poměr: Poměr mezi počtem závitů na primárním a sekundárním vinutí, určuje změnu napětí.
+
+- **Aplikace:**
+  - Napájecí zdroje pro elektronické zařízení.
+  - Zvýšení napětí pro přenos elektrické energie na dlouhé vzdálenosti (v energetice).
+  - Snížení napětí pro bezpečné použití v domácnostech a průmyslu.
