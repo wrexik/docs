@@ -49,7 +49,7 @@ Součástka s vlastností indukce, schopná uchovávat energii ve formě magneti
 	- Cívky mohou být bez jádra (vzduchové) nebo s jádrem (feritové) pro zvýšení induktance.
 
 ### Transformátory
-![Transformátor](../../../Pasted%20image%2020241111181412.png)
+![Transformátor](./assets/Pasted%20image%2020241111181412.png)
 Součástka s vlastností přenosu elektrické energie mezi dvěma nebo více obvody prostřednictvím elektromagnetické indukce.
 
 - **Důvody pro zařazení transformátoru do obvodu:**
