@@ -49,31 +49,25 @@ LED dioda při správném zapojení do obvodu emituje světlo, nefunguje však, 
 	- Spínače 
 	- Logická součástka
 	
-#### MOSFET
-![[./assets/Pasted image 20241114213924.png|Pasted image 20241114213924.png]]MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) je nejrozšířenější druh tranzistorů řízených elektrickým polem, u nichž je vodivost kanálu mezi elektrodami Source (S) a Drain (D) řízena napětím mezi elektrodou Gate (G). - 
-
+#### **MOSFET** 
+![[./assets/Pasted image 20241114213924.png|Pasted image 20241114213924.png]] MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) je nejrozšířenější druh tranzistorů řízených elektrickým polem, u nichž je vodivost kanálu mezi elektrodami **Source (S)** a **Drain (D)** řízena napětím mezi elektrodou **Gate (G)**. 
 **Výhody:** 
-	- Velmi vysoká vstupní impedance 
+	- Velmi vysoká vstupní impedance
 	- Rychlé přepínací časy 
 	- Ideální pro digitální a výkonové aplikace 
 - **Rozdíly:** 
-	- Vyšší odolnost vůči teplotním změnám ve srovnání s JFET 
-	- Možnost dosažení vyšší frekvence přepínání
+	- Vyšší odolnost vůči teplotním změnám 
+	- Možnost dosažení vyšší frekvence přepínání 
 	
-#### FET (Field-Effect Transistor)
-
-![[../../../Pasted image 20241114222006.png|Pasted image 20241114222006]]
-
-FET (Field-Effect Transistor) je druh tranzistoru řízeného elektrickým polem, kde je vodivost kanálu mezi elektrodami **Source (S)** a **Drain (D)** řízena napětím mezi **Gate (G)** a **Source (S)**.
-
-- Výhody:
-	- Vysoká vstupní impedance
-	- Nízký šum
-	- Vhodný pro analogové obvody a zesilovače
-
-- **Rozdíly:**
-	- **JFET** má nižší přepínací rychlost ve srovnání s **MOSFET**
-	- **JFET** vykazuje vyšší šum při vyšších frekvencích oproti **MOSFET**
+#### **FET (Field-Effect Transistor)** 
+![[./assets/Pasted image 20241114222006.png|Pasted image 20241114222006.png]] FET (Field-Effect Transistor) je druh tranzistoru řízeného elektrickým polem, kde je vodivost kanálu mezi elektrodami **Source (S)** a **Drain (D)** řízena napětím mezi **Gate (G)** a **Source (S)**. 
+**Výhody:** 
+	- Vysoká vstupní impedance 
+	- Nízký šum 
+	- Vhodný pro analogové obvody a zesilovače 
+- **Rozdíly:** 
+	- **FET** vykazuje nižší přepínací rychlost ve srovnání s **MOSFET** 
+	- **FET** vykazuje vyšší šum při vyšších frekvencích oproti **MOSFET**
 
 
 ### Tranzistor - Základní Zapojení
