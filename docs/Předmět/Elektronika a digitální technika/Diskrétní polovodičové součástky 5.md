@@ -22,7 +22,9 @@ LED dioda při správném zapojení do obvodu emituje světlo, nefunguje však, 
   - Indikace (stav zařízení, upozornění)
   - Displeje (např. displeje hodinek nebo elektronických zařízení)
 
-### Bipolární tranzistory NPN a PNP 
+### Bipolární tranzistory NPN a PNP
+FUNGUJI JAKO ZAPINAC, PO PROUDU DO GATE  PROPOUSTI
+JE JEDNOSMERNEJ
 ![[./assets/Pasted image 20241114202159.jpg|Pasted image 20241114202159.jpg]]
 #### Tranzistory NPN 
 ![[./assets/Pasted image 20241114200736.png|Pasted image 20241114200736.png]]Tranzistor typu NPN je tvořen třemi vrstvami: N (negativní), P (pozitivní) a N (negativní). V tomto typu tranzistoru proud protéká od kolektoru k emitoru při zapojení v aktivním režimu. 
@@ -31,7 +33,6 @@ LED dioda při správném zapojení do obvodu emituje světlo, nefunguje však, 
 	- Při zapojení do obvodu je na bázi kladné napětí vůči emitoru, což umožňuje průchod proudu z kolektoru na emitor. 
 	- **Použití:**
 		- Spínače (v obvodech pro přepínání) 
-		- Zesilovače (pro zesílení signálů) - Řízení výkonu (v regulačních obvodech) 
 #### Tranzistory PNP 
 ![[./assets/Pasted image 20241114200731.png|Pasted image 20241114200731.png]] Tranzistor typu PNP má opačnou strukturu než NPN, s vrstvami P (pozitivní), N (negativní) a P (pozitivní). U tohoto typu tranzistoru proud protéká od emitoru k kolektoru při zapojení v aktivním režimu. 
 
@@ -43,6 +44,8 @@ LED dioda při správném zapojení do obvodu emituje světlo, nefunguje však, 
 	- Invertory (pro změnu polarity signálu)
 
 ### Bipolární Tranzistory FET, MOSFET 
+FUNGUJI JAKO "REGULATOR", PROUD DO GATE POUSTI UMERNY PROUD PRES TRANSISTOR
+JE OBOUSMERNY
 
 - **Dají se použít jako:** 
 	- Zesilovače 
