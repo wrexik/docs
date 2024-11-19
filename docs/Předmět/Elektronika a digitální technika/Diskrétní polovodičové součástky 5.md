@@ -49,7 +49,7 @@ LED dioda při správném zapojení do obvodu emituje světlo, nefunguje však, 
 	- Spínače 
 	- Logická součástka
 	
-#### **MOSFET** 
+#### MOSFET 
 ![[./assets/Pasted image 20241114213924.png|Pasted image 20241114213924.png]] MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) je nejrozšířenější druh tranzistorů řízených elektrickým polem, u nichž je vodivost kanálu mezi elektrodami **Source (S)** a **Drain (D)** řízena napětím mezi elektrodou **Gate (G)**. 
 **Výhody:** 
 	- Velmi vysoká vstupní impedance
@@ -59,7 +59,7 @@ LED dioda při správném zapojení do obvodu emituje světlo, nefunguje však, 
 	- Vyšší odolnost vůči teplotním změnám 
 	- Možnost dosažení vyšší frekvence přepínání 
 	
-#### **FET (Field-Effect Transistor)** 
+#### FET (Field-Effect Transistor) 
 ![[./assets/Pasted image 20241114222006.png|Pasted image 20241114222006.png]] FET (Field-Effect Transistor) je druh tranzistoru řízeného elektrickým polem, kde je vodivost kanálu mezi elektrodami **Source (S)** a **Drain (D)** řízena napětím mezi **Gate (G)** a **Source (S)**. 
 **Výhody:** 
 	- Vysoká vstupní impedance 

@@ -1,2 +1,7 @@
 [[Analogový a digitální signál 1|Analogový a digitální signál 1]]
 [[Číselné soustavy 2|Číselné soustavy 2]]
+[[Booleova algebra 3|Booleova algebra 3]]
+[[Pasivní obvodové součástky 4|Pasivní obvodové součástky 4]]
+[[Diskrétní polovodičové součástky 5|Diskrétní polovodičové součástky 5]]
+[[Unifikovaný signál|Unifikovaný signál]]
+[[Ohmův zákon|Ohmův zákon]]
