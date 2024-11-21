@@ -1,4 +1,4 @@
-### **Literární forma**
+# **Literární forma**
 
 **próza**
 
@@ -6,79 +6,71 @@
 
 **epika**
 
+Má svůj příběh a je psána ve větách.
+
 ### **Literární žánr**
 
-**novela**
+Fyziologický **román**
 
-### **Téma**
+### Téma
 
-Nekonečný souboj člověka s přírodou, lidská vytrvalost, statečnost a duševní síla.
+Putování pastýře světem, potká krále který mu poradí ať jde za svým osobním příběhem.  
+Pastýř putuje světlem, prodá ovce. Přijde o všechny peníze, najde práci v obchodě se skleničkami.  
+Vydělá si zpět o co přišel a po váhání pokračuje v cestě za pokladem. Nakonec poklad najde.
 
-### **Forma vypravěče**
+### Forma vypravěče
 
-**er-forma** – autor vypráví příběh třetí osobou.
+**er-forma** - Pastýř vypráví ze svého pohledu
 
-### **Kompozice**
+### Kompozice
 
-**Chronologická** – s retrospektivními pasážemi.
+**Chronologická**
 
-### **Čas a prostor**
+### Čas a prostor
 
-- **Čas:** 40. léta 20. století
-- **Prostor:** Kuba, vesnice poblíž Havany, moře
+doba není vymezená, **nejdraje po roce 1887**, Španělsko a Afrika
 
-### **Postavy**
+### Postavy
 
-- **Santiago** – starý kubánský rybář, skromný, hrdý na své schopnosti.
-- **Manolin** – mladý chlapec, Santiagův učeň a pomocník.
-- **Joe DiMaggio** – idol, vzor síly a odhodlání.
+- Santiago – vypravěč, pastýř, umí číst, odvážný, citlivý, jeho duševní přeměna
+- Cikánka – pravdomluvná, ale prospěchářská
+- Král – všechno ví, moudrý, vidí, zná a cítí věci
+- Sklenář - snílek a idealista, ale není odvážný
+- Alchymista – moudrý průvodce
 
-### **Literární směr**
+### Literární směr
 
-Americká meziválečná próza
+magický realismus
 
-### **Ernest Hemingway (1899–1961)**
+### Autoři stejného směru
 
-Ernest Hemingway byl americký spisovatel a novinář, jeden z nejvýznamnějších autorů 20. století, známý svou jedinečnou stylistikou, která klade důraz na jednoduchost a stručnost. Jeho styl je často označován jako **"teorie leduberg"**, což znamená, že se zaměřuje pouze na to, co je viditelné na povrchu, zatímco většina významu zůstává skryta pod ním.
+- [Julio Cortázar](https://cs.wikipedia.org/wiki/Julio_Cort%C3%A1zar "Julio Cortázar")
+    
+    - - **"Nebezpečné hry"** (1963, _Rayuela_)
+    - **"Štvanice a jiné povídky"** (1968, _Blow-up and Other Stories_)
+- [Laura Esquivel](https://cs.wikipedia.org/wiki/Laura_Esquivel "Laura Esquivel")
+    
+    - - **"Jako voda pro čokoládu"** (1989, _Like Water for Chocolate_)
+    - **"La Malinche"** (2006, _Malinche_)
+- [Julio Cortázar](https://cs.wikipedia.org/wiki/Julio_Cort%C3%A1zar "Julio Cortázar")
+    
+    - - **"Alchymista"** (1974, _The Alchemist_)
+    - **"hora"** (1992, _Hora_)
+- [Laura Esquivel](https://cs.wikipedia.org/wiki/Laura_Esquivel "Laura Esquivel")
+    
+    - - Čarodějka z Portobella
+    - Vítěz je sám
 
-Hemingwayova díla často obsahují témata jako **boj s přírodou**, **osamělost** a **osobní odolnost**. Mnoho jeho příběhů se zaměřuje na jednotlivce v extrémních situacích, kteří se musí vypořádat s výzvami a překonávat osobní krize. Hemingway byl nositelem Nobelovy ceny za literaturu v roce 1954 za svůj román **"Stařec a moře"**.
+# Ukázka
 
-Mezi jeho další významná díla patří **"Komu zvoní hrana"**, **"Sbohem armádo"** a **"Pátá kolona"**. Hemingway byl rovněž válečným korespondentem, což ovlivnilo jeho psaní a vneslo do něj realistický pohled na svět.
-
-Jeho život byl stejně dramatický jako jeho knihy: byl válečným veteránem, milovníkem sportu a dobrodružství, a jeho osobní život byl plný vztahů a těžkých období. V roce 1961 spáchal sebevraždu, což byl tragický závěr života jednoho z největších literárních talentů.
-
-### **Autoři stejného směru**
-
-- **Ana Castillo**
-    - "Tak daleko od Boha" (1993, _So Far from God_)
-    - "Mixquiahualské dopisy" (1986, _The Mixquiahuala Letters_)
-- **Julio Cortázar**
-    - "Nebezpečné hry" (1963, _Rayuela_)
-    - "Štvanice a jiné povídky" (1968, _Blow-up and Other Stories_)
-- **Laura Esquivel**
-    - "Jako voda pro čokoládu" (1989, _Like Water for Chocolate_)
-    - "La Malinche" (2006, _Malinche_)
-
-### **Další díla autora**
-
-- "Sbohem armádo" (1929)
-- "Komu zvoní hrana" (1940)
-- "Pátá kolona" (1938)
-- "Zelené pahorky africké" (1935)
-
-### **Ukázka**
-
-```
-Stařec, který už 84 dnů nechytil žádnou rybu, se vydává na moře. Věří, že tentokrát bude mít štěstí. Po dlouhém boji uloví obrovského marlina, ale jeho radost je krátká, protože žraloci rybu postupně sežerou. Santiago se vrací zpět jen s kostrou marlina, ale s pocitem hrdosti a uspokojení ze svého boje.
+```text
+Chlapec se jmenoval Santiago. Už se stmívalo, když přivedl své stádo ke starému opuštěnému kostelu. Klenba se zbortila už dávno a na místě dřívější sakristie vyrostl velký fuchs. 
+Na zem rozprostřel plášť a pod hlavu si místo polštáře dal knížku, kterou zrovna dočetl. A ještě než usnul, napadlo ho, že by si měl pořizovat tlustší knihy: nepřečtou se tak rychle a líp se na nich leží.
+Probudil se ancora za tmy. Vzhlédl vzhůru a uviděl, že polozřícovou klenbou svítí dovnitř hvězdy.
+„Škodaže jsem nespal o chvilku déle,“ povzdechl si. Zdál se mu stejný sen jako minulý týden a zase se před koncem probudil. 
+Vstal a napil se vína. Pak vzal hůl a začal budit ovce, kteréště spaly. Všiml si už dřív, že většina ovcí se probouzí současně s ním. Jako by jakási tajuplná síla pojila jeho život s životem těch zvířat, která s ním už dva roky putovala za potravou.
 ```
 
-![[./assets/Screenshot 2024-11-21 173341.png|Screenshot 2024-11-21 173341.png]]
+Jejich putování je plno neznámých míst a lidí, kteří jim pomohli na cestách. Každý z nich má svůj vlastní příběh a své own zkušenosti, které si Santiagu přinášejí. A když se setkají s králem, který mu poradil, že jde za svým osobním příběhem,beginají cílevědome chodić do neznámého horizontu.
 
-
-
-
-
-
-
-
-![[./assets/Screenshot 2024-11-21 172211.png|Screenshot 2024-11-21 172211.png]]
+Jako by říkal: "Každý z nás má svůj vlastní Alchymista v sobě. Je to ten člověk, jenž vidí na nás jako na sebe a कहतí nám: 'Tištění je klíč k otevření.' A tak se stačí odjet s nim do neznámého horizontu."
