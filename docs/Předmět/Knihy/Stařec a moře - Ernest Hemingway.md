@@ -103,7 +103,7 @@ Chronologická kompozice s retrospektivními vzpomínkami.
 
 #### Zařadit dílo do literárně-historického kontextu
 
-- **a)** Dílo patří do americké meziválečné prózy, s minimalistickým stylem a důrazem na psychologii postav.
+- **a)** Dílo patří do **americké meziválečné prózy**, s minimalistickým stylem a důrazem na psychologii postav.
 - **b)** Autor: **Ernest Hemingway** (1899–1961), známý pro svůj jednoduchý styl. Další díla: "Sbohem armádo", "Komu zvoní hrana".
 - **c)** Další autoři: John Steinbeck ("Hrozny hněvu"), F. Scott Fitzgerald ("Velký Gatsby").
 
