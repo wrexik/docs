@@ -71,3 +71,14 @@ Jeho život byl stejně dramatický jako jeho knihy: byl válečným veteránem,
 ```
 Stařec, který už 84 dnů nechytil žádnou rybu, se vydává na moře. Věří, že tentokrát bude mít štěstí. Po dlouhém boji uloví obrovského marlina, ale jeho radost je krátká, protože žraloci rybu postupně sežerou. Santiago se vrací zpět jen s kostrou marlina, ale s pocitem hrdosti a uspokojení ze svého boje.
 ```
+
+![[./assets/Screenshot 2024-11-21 173341.png|Screenshot 2024-11-21 173341.png]]
+
+
+
+
+
+
+
+
+![[./assets/Screenshot 2024-11-21 172211.png|Screenshot 2024-11-21 172211.png]]
