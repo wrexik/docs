@@ -8,12 +8,12 @@ Hierarchická topologie, kde uzly jsou uspořádány do stromové struktury.
 - Využívá se například v hierarchických sítích pro organizaci dat nebo zařízení.  
 
 # Fx vs SX
-Je rozdíl spektra LEDky která posílá světlo do kabelu, Sx na kratší vzdálenost právě kvůli spektru.
+Je rozdíl spektra LEDky která posílá světlo do kabelu, SX na kratší vzdálenost právě kvůli spektru.
 
 ## TX vs FX vs SX
 - **Tx**: twisted pairs, používá klasické kabely.  
 - **Fx**: optická vlákna, používá optiku.  
-- **Sx**: optická vlákna, stejný jako Fx, jen na **kratší vzdálenost** kvůli spektru světla.
+- **Sx**: optická vlákna, stejný jako FX, jen na **kratší vzdálenost** kvůli spektru světla.
 
 # 1000Base-T
 - Technologie pro gigabitový Ethernet.  
@@ -24,9 +24,10 @@ Je rozdíl spektra LEDky která posílá světlo do kabelu, Sx na kratší vzdá
 # 7. vrstva OSI - Aplikační vrstva
 - Poskytuje síťové služby přímo aplikacím uživatele (např. HTTP, FTP, SMTP).  
 - Zajišťuje komunikaci mezi softwarem a síťovými službami.
+- Jediná vrstva přístupná uživateli.
 
 # 6. vrstva OSI - Prezentační vrstva
-- Transformuje data do formátu, který je čitelný cílovým systémem.  
+- Transformuje data do formátu, který je čitelný cílovým systémem.
 - Zajišťuje kódování, šifrování a kompresi dat.
 
 # 5. vrstva OSI - Relační vrstva
