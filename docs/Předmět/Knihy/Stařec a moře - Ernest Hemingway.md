@@ -1,4 +1,4 @@
-
+# Stařec a moře - Ernest Hemingway
 ### **Literární druh**
 
 **epika**
@@ -66,7 +66,7 @@ Jeho život byl stejně dramatický jako jeho knihy: byl válečným veteránem,
 Stařec, který už 84 dnů nechytil žádnou rybu, se vydává na moře. Věří, že tentokrát bude mít štěstí. Po dlouhém boji uloví obrovského marlina, ale jeho radost je krátká, protože žraloci rybu postupně sežerou. Santiago se vrací zpět jen s kostrou marlina, ale s pocitem hrdosti a uspokojení ze svého boje.
 ```
 
-### Pravděpodobně správné odpovědi:
+# Pravděpodobně správné odpovědi:
 #### Zařadit ukázku do kontextu díla
 
 Dílo "Stařec a moře" vypráví příběh starého rybáře, který se vydává na moře a zápasí s obrovskou rybou, symbolizující boj s přírodou a osudem.
