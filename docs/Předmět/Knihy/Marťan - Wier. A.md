@@ -1,4 +1,5 @@
-# **Literární forma**
+# Marťan - Wier. A
+### **Literární forma**
 
 **Próza**
 
@@ -59,7 +60,7 @@ Nejsem ale ten typ, co to hned vzdá.
 Začal jsem kontrolou zásob. Jídlo: žádná sláva. Voda: dost na pár dní. Komunikace: nulová. No, paráda. Ale jsem botanický inženýr a tady začíná má botanická magie. Mars se právě stal mým experimentálním polem.```
 ```
 
-
+# Pravděpodobně správné odpovědi
 ### **Zařadit ukázku do kontextu díla**
 
 Ukázka pochází z deníkových zápisků Marka Watneyho, kde popisuje své první momenty na Marsu poté, co zjistil, že byl posádkou omylem opuštěn. Tyto zápisky odrážejí jeho humor, schopnost analyzovat situaci a připravit plán na přežití.
