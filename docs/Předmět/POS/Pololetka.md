@@ -7,13 +7,13 @@ Hierarchická topologie, kde uzly jsou uspořádány do stromové struktury.
 - Každý uzel (kromě kořenového) má jednoho rodiče a může mít více dětí.  
 - Využívá se například v hierarchických sítích pro organizaci dat nebo zařízení.  
 
-# Fx vs SX
+# FX > SX
 Je rozdíl spektra LEDky která posílá světlo do kabelu, SX na kratší vzdálenost právě kvůli spektru.
 
-## TX vs FX vs SX
-- **Tx**: twisted pairs, používá klasické kabely.  
-- **Fx**: optická vlákna, používá optiku.  
-- **Sx**: optická vlákna, stejný jako FX, jen na **kratší vzdálenost** kvůli spektru světla.
+## FX > SX > TX
+- **TX**: twisted pairs, používá klasické kabely.  
+- **FX**: optická vlákna, používá optiku.  
+- **SX**: optická vlákna, stejný jako FX, jen na **kratší vzdálenost** kvůli spektru světla.
 
 # 1000Base-T
 - Technologie pro gigabitový Ethernet.  
@@ -40,12 +40,39 @@ Je rozdíl spektra LEDky která posílá světlo do kabelu, SX na kratší vzdá
 **Near End Cross Talk**  
 Vyjadřuje nežádoucí pronikání signálů z jednoho páru do sousedících párů na stejném konci.
 
+## PS NEXT (Pro gigabit a více)
+**Power Sum Near End Cross Talk**
+Vyjadřuje nežádoucí pronikání signálů ze 3 párů do jednoho na stejném konci.
+
 # FEXT
 **Far End Cross Talk**  
 Vyjadřuje nežádoucí pronikání signálů do jednoho páru a měří se na opačném konci na všech ostatních.
+## PS FEXT 
+**Power Sum Far End Cross Talk**
+Vyjadřuje nežádoucí pronikání signálů ze 3 párů do jednoho na opačném konci.
+
+# ELFEXT
+**Equal Level Far End Cross Talk** 
+normovaný **útlum** na vzdáleném konci
+## PS ELFEXT
+**Equal Level Power Sum Near End Cross Talk** 
+normovaný sumární **útlum** na vzdáleném konci
 
 # CSMA/CD
 **Carrier Sense Multiple Access with Collision Detection**  
 - Stanice na síti naslouchají, zda je médium volné.  
 - Pokud je volné, rámec odešlou.  
 - Pokud dojde ke kolizi (dva rámce odeslány současně), stanice čekají náhodnou dobu a poté zkusí odeslání znovu.
+
+# IEEE 802.xx
+
+## 802.11 WLAN
+- Bezdrátové sítě
+- WiFi 5, 6
+
+## 802.15 BLE
+- Bezdratové sítě pracující na krátkou vzdálenost
+- Např. Bluetooth
+
+## 802.3 CSMA/CD
+- [[Pololetka#CSMA/CD|CSMA/CD]]
