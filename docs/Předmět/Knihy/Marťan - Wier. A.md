@@ -61,73 +61,87 @@ Začal jsem kontrolou zásob. Jídlo: žádná sláva. Voda: dost na pár dní. 
 ```
 
 # Pravděpodobně správné odpovědi
-### **Zařadit ukázku do kontextu díla**
 
-Ukázka pochází z deníkových zápisků Marka Watneyho, kde popisuje své první momenty na Marsu poté, co zjistil, že byl posádkou omylem opuštěn. Tyto zápisky odrážejí jeho humor, schopnost analyzovat situaci a připravit plán na přežití.
+### **Zařadit ukázku do kontextu díla**  
 
----
-
-### **Určit literární druh a žánr**
-
-- **Literární druh:** Epika
-- **Literární žánr:** Science fiction
+Ukázka zachycuje klíčový moment v psychologické proměně Karla Kopfrkingla. Odráží jeho posedlost smrtí a „očistou“ a naznačuje jeho postupné přijetí nacistické ideologie. Jeho uhlazený jazyk a láskyplný tón vůči manželce kontrastují s hrůznými myšlenkami, což zvyšuje celkovou děsivost.
 
 ---
 
-### **Určit téma celého díla**
+### **Určit literární druh a žánr**  
 
-Příběh astronauta Marka Watneyho, který bojuje o přežití na Marsu, kde byl omylem ponechán, a jeho snaha kontaktovat NASA pro záchranu.
-
----
-
-### **Charakterizovat jazykové prostředky (uvést příklady)**
-
-- **Jazyk:** Jednoduchý, srozumitelný a technicky přesný.
-- **Styl:** Kombinace humorných poznámek („Jsem v hajzlu“) a odborných popisů (technologické a vědecké postupy).
-- **Příklady:**
-    - „Jsem botanický inženýr a Mars se právě stal mým experimentálním polem.“
-    - „Začal jsem kontrolou zásob: jídlo – žádná sláva, voda – dost na pár dní.“
+- **Literární druh:** Epika  
+- **Literární žánr:** Psychologická novela s hororovými prvky  
 
 ---
 
-### **Určit formu vypravěče**
+### **Určit téma celého díla**  
 
-**Ich-forma** (Markovy deníkové zápisky) střídající se s **er-formou** (pohled NASA a posádky mise).
-
----
-
-### **Určit kompozici díla**
-
-**Chronologická** – Příběh postupuje v logickém časovém sledu, paralelně sleduje Markovo přežívání na Marsu a záchrannou operaci NASA.
+Postupná psychologická přeměna Karla Kopfrkingla z obyčejného zaměstnance krematoria v bezcitného fanatika. Vliv totalitní ideologie na jedince a ztráta lidskosti pod jejím tlakem.
 
 ---
 
-### **Charakterizovat hlavní postavu díla**
+### **Charakterizovat jazykové prostředky (uvést příklady)**  
 
-**Mark Watney** – Astronaut, vynalézavý a optimistický, s výborným smyslem pro humor. Využívá své znalosti z botaniky a inženýrství, aby překonal zdánlivě bezvýchodnou situaci.
+- **Jazyk:** Formální, uhlazený, s častým opakováním frází.  
+- **Styl:** Kombinace klidného, láskyplného projevu a děsivého obsahu.  
+- **Symbolika:**  
+    - **Krematorium** – představuje očistu, přechod mezi životem a smrtí.  
+    - **Oheň a plameny** – transformace, zánik a znovuzrození.  
+- **Příklady:**  
+    - „Život je jen přechodný stav mezi zrozením a smrtí.“  
+    - „Měli bychom být vděční, že můžeme pomoci duším nalézt klid.“  
 
 ---
 
-### **Určit čas a prostor, ve kterém se dílo odehrává**
+### **Určit formu vypravěče**  
 
-- **Čas:** Blízká budoucnost
-- **Prostor:** Povrch Marsu, vesmír, Země
+**Er-forma** – vyprávění ve třetí osobě, důraz na vnitřní monology hlavního hrdiny.
 
 ---
 
-### **Zařadit dílo do literárně-historického kontextu**
+### **Určit kompozici díla**  
 
-#### a) Charakterizovat dobu a literární směr
+**Chronologická** – příběh postupně sleduje psychologickou přeměnu hlavního hrdiny pod vlivem nacistické ideologie.
 
-Dílo spadá do moderní science fiction, zaměřené na realistické zpracování vědeckých a technologických témat.
+---
 
-#### b) Uvést jméno autora, stručné informace o jeho životě, další díla
+### **Charakterizovat hlavní postavu díla**  
 
-**Andy Weir** – Americký autor, narozený 16. června 1972. Bývalý softwarový inženýr. Dílo _Marťan_ bylo jeho prvotinou, která získala velký úspěch. Další dílo: _Projekt Hail Mary_.
+**Karel Kopfrkingl** – Zaměstnanec pražského krematoria, na první pohled uhlazený, láskyplný manžel a otec. Pod vlivem nacismu se však mění v bezcitného vraha, který zradí vlastní rodinu ve jménu „očisty“.
 
-#### c) Uvést další autory z tohoto období a jejich díla
+---
 
-- **Isaac Asimov** – „Nadace“
-- **Arthur C. Clarke** – „2001: Vesmírná odysea“
-- **Kim Stanley Robinson** – „Rudý Mars“
+### **Určit čas a prostor, ve kterém se dílo odehrává**  
+
+- **Čas:** Konec 30. let 20. století, období nástupu nacismu.  
+- **Prostor:** Praha, krematorium, rodinné prostředí.  
+
+---
+
+### **Zařadit dílo do literárně-historického kontextu**  
+
+#### a) Charakterizovat dobu a literární směr  
+
+Dílo bylo napsáno v 60. letech 20. století a patří do **existencialismu a psychologické prózy**. Silně reflektuje totalitní ideologie a jejich dopad na jednotlivce.
+
+#### b) Uvést jméno autora, stručné informace o jeho životě, další díla  
+
+**Ladislav Fuks** (1923–1994) – Český spisovatel zaměřený na psychologické romány, často reflektující totalitu a manipulaci.  
+Další díla:  
+- **„Pan Theodor Mundstock“**  
+- **„Variace pro temnou strunu“**  
+
+#### c) Uvést další autory z tohoto období a jejich díla  
+
+- **Franz Kafka** – „Proces“  
+- **Fjodor Michajlovič Dostojevskij** – „Zločin a trest“  
+- **Albert Camus** – „Cizinec“  
+
+---
+
+### **Projev osvícenství v díle**  
+
+Dílo ukazuje negativní důsledky myšlenky „pokroku“ a „racionality“, když jsou zneužity totalitní ideologií. Kopfrkingl vnímá kremaci jako „očistu“ a ospravedlňuje tím své činy, což ilustruje nebezpečí manipulace a slepé poslušnosti ideologiím.
+
 
