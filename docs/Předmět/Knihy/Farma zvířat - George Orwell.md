@@ -1,4 +1,4 @@
-# **Literární forma**
+### **Literární forma**
 
 **Román**
 
@@ -32,7 +32,7 @@ Kritika totalitních režimů a zneužití moci prostřednictvím alegorického 
 ### **Postavy**
 
 - **Napoleon** – prase, vůdce revoluce, později diktátor, alegorie Stalina  
-- **Snowball** – prase, inteligentní revolucionář, alegorie Trockého  
+- **Pištík** – prase, inteligentní revolucionář, alegorie Trockého  
 - **Boxer** – pracovitý kůň, ztělesnění dělnické třídy, loajální až do smrti  
 - **Major** – starý prasečí myslitel, který inspiroval revoluci, alegorie Marxe/Lenina  
 - **Pan Jones** – původní majitel farmy, symbol carského Ruska  
@@ -44,7 +44,6 @@ Kritika totalitních režimů a zneužití moci prostřednictvím alegorického 
 
 ### **Autoři stejného směru**
 
-- **Aldous Huxley** – *Brave New World*  
 - **Ray Bradbury** – *451 stupňů Fahrenheita*  
 - **Karel Čapek** – *Válka s Mloky*
 
@@ -61,14 +60,12 @@ Zvířata zůstala stát v němém úžasu, když se podívala do oken. Prasata 
 
 ### **Zařadit ukázku do kontextu díla**
 
-Ukázka je součástí allegorického vyprávění, ve kterém zvířata na farmě vyjadřují své názory a chování, čímž odráží politické a společenské změny. Ukázka se zaměřuje na moment, kdy zvířata, inspirovaná myšlenkami rovnoprávnosti, převzala moc, což postupně vede k úpadku původního ideálu.
-
 ---
 
 ### **Určit literární druh a žánr**
 
-- **Literární druh:** Próza, Epika
-- **Literární žánr:** Antiutopický román, alegorická bajka
+- **Literární druh:** Epika
+- **Literární žánr:** Antiutopický román
 
 ---
 
@@ -109,7 +106,7 @@ Hlavním tématem díla je kritika totalitních režimů, zejména komunismu a s
 
 ### **Určit čas a prostor, ve kterém se dílo odehrává**
 
-- **Čas:** 50. léta 20. století
+- **Čas:** Neurčený, symbolicky odkazuje na období po ruské revoluci a nástup stalinského režimu  
 - **Prostor:** Anglický venkov, farma pana Jonese
 
 ---
@@ -123,22 +120,12 @@ Dílo je součástí světové tvorby 20. století, ovlivněné událostmi druh�
 #### b) Uvést jméno autora, stručné informace o jeho životě, další díla
 
 **George Orwell** (1903–1950) – Britský spisovatel, novinář a esejista, známý pod svým pseudonymem. Narodil se jako Eric Arthur Blair, vystudoval prestižní školu a svou kariéru začal jako novinář. Jeho díla se zabývají kritickou reflexí společenských poměrů a totality.  
-Další známá díla:  
-- *1984*  
-- *Barmské dny*  
+Další známá díla:   
 - *Farářova dcera*  
-- *Na dně v Paříži a Londýně*  
 - *Nadechnout se*
 
 #### c) Uvést další autory z tohoto období a jejich díla
-
-**Světoví autoři sci-fi 20. století:**  
-- **Isaac Asimov** – *Já, robot*  
-- **Arthur C. Clarke** – *Vesmírná odysea*  
-- **Ray Bradbury** – *Marťanská kronika*
-
-**Čeští autoři sci-fi 20. století:**  
-- **Karel Čapek** – *R.U.R.*, *Ze života hmyzu*  
+- **Karel Čapek** – *R.U.R.* 
 - **Ludvík Souček** – *Cesta slepých ptáků*
 
 ---
